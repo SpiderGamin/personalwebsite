@@ -20,7 +20,7 @@
 </ul>
 <div id="myTabContent" class="tab-content">
   <div class="tab-pane fade active show" id="home">
-    <iframe width="660" height="400" frameborder="0" scrolling="off" src="https://docs.google.com/document/d/e/2PACX-1vSrYKIKuefPNQ3Pe8irJeO9swbjc6iDddFd0pSEe8BxBheXkgMnzw7-YVsNMHu8H4qvG4I_STj0mGCG/pub?embedded=true"></iframe>
+    <p>This website has been moved to gitlab. Here is a <a href="https://spidergamin.gitlab.io/Personal" target="_blank">link</a></p>
   </div>
   <div class="tab-pane fade" id="current">
     <p>Im currently
@@ -47,10 +47,8 @@
   </div>
   <div class="tab-pane fade" id="links">
     <p>Sadly, there are only some links
-      <br>- <a href="https://spidergamin.github.io/IncrementalUniverse/" style="color:cyan" target="_blank" title="The game oh oh oh oh oh">Incremental Universe</a> (Incremental Game)
-      <br>- <a href="https://spidergamin.github.io/HTMLtestingsite" target="_blank">HTML Testing Website</a>
-      <br>- <a href="https://sites.google.com/u/3/s/1BD0eT7CiUZ8dPx2xiJN-ZkaxjEIMOx8P/edit" target="_blank">Google Sites Website</a> (Working Progress And Now Has A link)
-      <br>- <a href="https://www.youtube.com/channel/UCO2rlcllQhQdPM8PZkqEAcA?view_as=subscriber" style="color:red" target="_blank">My YouTube Channel</a> (Now Has A Link)
+      <br>- <a href="https://spidergamin.gitlab.io/Incremental-Universe/" style="color:cyan" target="_blank">Idle Universe</a> (Incremental Game)
+      <br>- <a href="https://www.youtube.com/channel/UCO2rlcllQhQdPM8PZkqEAcA?view_as=subscriber" style="color:red" target="_blank">My YouTube Channel</a>
     </p>
   </div>
   <div class="tab-pane fade" id="about">
@@ -61,7 +59,3 @@
     </p>
   </div>
 </div>
-<hr size="100" noshade>
-<br>
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vSkgw_ZW8Gb8tjBWAwMMLnqt6Fr9Dk__FfAGoiRUjluqCGcir_mHzl511LGssVytPYwv4b0yhzH9Ja5/pub?embedded=true" width="660" height="100" frameborder="0" scrolling="auto"></iframe>
-<br>
