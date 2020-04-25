@@ -24,12 +24,12 @@
   </div>
   <div class="tab-pane fade" id="current">
     <p>Im currently
-      <br>- Working on an incremental game (Link in the links tab)
+      <br>- (not) Working on an incremental game (Link in the links tab) 
       <br>- Working on this website
-      <br>- Learning HTML
-      <br>- Moving files
+      <br>- Learning HTML (done)
+      <br>- Moving files (failed)
       <br>
-      <br>- Trying to intergrate Google Docs into this so the things I edit are easier
+      <br>- (not happening) Trying to intergrate Google Docs into this so the things I edit are easier
       <br>
       <br>I am {{ site.todobar }}% done with these tasks
       <br>
@@ -41,7 +41,7 @@
   </div>
   <div class="tab-pane fade" id="later">
     <p>Things I plan on doing later
-      <br>- Making a website (Likely this one) from scratch on github (not likely to happen for a long time)
+      <br>- (done see it <a href="https://SpiderGaming.gitlab.io/Personal">Here</a>) Making a website (Likely this one) from scratch on github (not likely to happen for a long time)
       <br>- 
     </p>
   </div>
@@ -59,3 +59,4 @@
     </p>
   </div>
 </div>
+<script>alert("HELLO!!!", "This site has been moved to gitlab, go to the link displayed on the main page (it's yellow so you don't miss it\)")</script>
