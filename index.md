@@ -59,4 +59,4 @@
     </p>
   </div>
 </div>
-<script>alert("HELLO!!!", "This site has been moved to gitlab, go to the link displayed on the main page (it's yellow so you don't miss it\)")</script>
+<script>alert("HELLO!!!, This site has been moved to gitlab, go to the link displayed on the main page (it's yellow so you don't miss it\)")</script>
