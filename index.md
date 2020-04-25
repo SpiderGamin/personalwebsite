@@ -20,7 +20,7 @@
 </ul>
 <div id="myTabContent" class="tab-content">
   <div class="tab-pane fade active show" id="home">
-    <p>This website has been moved to gitlab. Here is a <a href="https://spidergamin.gitlab.io/Personal" target="_blank">link</a></p>
+    <p style="color: yellow; font-style: bold;">**This website has been moved to <a href="https://spidergamin.gitlab.io/Personal" target="_blank">***GITLAB***</a>**</p>
   </div>
   <div class="tab-pane fade" id="current">
     <p>Im currently
