@@ -24,8 +24,7 @@
   </div>
   <div class="tab-pane fade" id="current">
     <p>Im currently
-      <br>- (not) Working on an incremental game (Link in the links tab) 
-      <br>- Working on this website
+      <br>- (not) Working on an incremental game (Link in the links tab)
       <br>- Learning HTML (done)
       <br>- Moving files (failed)
       <br>
@@ -41,13 +40,13 @@
   </div>
   <div class="tab-pane fade" id="later">
     <p>Things I plan on doing later
-      <br>- (done see it <a href="https://SpiderGaming.gitlab.io/Personal">Here</a>) Making a website (Likely this one) from scratch on github (not likely to happen for a long time)
+      <br>- (done see it <a href="https://SpiderGaming.gitlab.io/Personal">Here</a>) Making a website (Likely this one) from scratch on gitlab (not likely to happen for a long time)
       <br>- 
     </p>
   </div>
   <div class="tab-pane fade" id="links">
     <p>Sadly, there are only some links
-      <br>- <a href="https://spidergamin.gitlab.io/Incremental-Universe/" style="color:cyan" target="_blank">Idle Universe</a> (Incremental Game)
+      <br>- <a href="https://spidergaming.gitlab.io/Incremental-Universe/" style="color:cyan" target="_blank">Idle Universe</a> (Incremental Game)
       <br>- <a href="https://www.youtube.com/channel/UCO2rlcllQhQdPM8PZkqEAcA?view_as=subscriber" style="color:red" target="_blank">My YouTube Channel</a>
     </p>
   </div>
