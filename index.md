@@ -20,7 +20,7 @@
 </ul>
 <div id="myTabContent" class="tab-content">
   <div class="tab-pane fade active show" id="home">
-    <p style="color: yellow; text-size: 20px; text-style: bold;">This website has been moved to <a href="https://SpiderGaming.gitlab.io/Personal" target="_blank">GITLAB</a></p>
+    <p style="color: yellow; text-size: 20px; text-style: bold;">This website has been moved to <a href="https://SpiderGamin.github.io" target="_blank">spidergamin.github.io</a></p>
   </div>
   <div class="tab-pane fade" id="current">
     <p>Im currently
@@ -40,7 +40,7 @@
   </div>
   <div class="tab-pane fade" id="later">
     <p>Things I plan on doing later
-      <br>- (done see it <a href="https://SpiderGaming.gitlab.io/Personal">Here</a>) Making a website (Likely this one) from scratch on gitlab (not likely to happen for a long time)
+      <br>- (done see it <a href="https://spidergamin.github.io/#tasks">Here</a>) Making a website (Likely this one) from scratch on gitlab (not likely to happen for a long time)
       <br>- 
     </p>
   </div>
@@ -58,4 +58,4 @@
     </p>
   </div>
 </div>
-<script>alert("HELLO!!!, This site has been moved to gitlab, go to the link displayed on the main page (it's yellow so you don't miss it\)")</script>
+<script>alert("HELLO!!!, This site has been moved to a new place on Github, go to the link displayed on the main page (it's yellow so you don't miss it\)")</script>
