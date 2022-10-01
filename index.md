@@ -40,13 +40,13 @@
   </div>
   <div class="tab-pane fade" id="later">
     <p>Things I plan on doing later
-      <br>- (done see it <a href="https://spidergamin.github.io/#tasks">Here</a>) Making a website (Likely this one) from scratch on gitlab (not likely to happen for a long time)
+      <br>- (done see it <a href="https://insberr.github.io/old#tasks">Here</a>) Making a website (Likely this one) from scratch on gitlab (not likely to happen for a long time)
       <br>- 
     </p>
   </div>
   <div class="tab-pane fade" id="links">
     <p>Sadly, there are only some links
-      <br>- <a href="https://spidergaming.gitlab.io/Incremental-Universe/" style="color:cyan" target="_blank">Idle Universe</a> (Incremental Game)
+      <br>- <a href="https://github.com/insberr/Incremental-Universe/" style="color:cyan" target="_blank">Idle Universe</a> (Incremental Game)
       <br>- <a href="https://www.youtube.com/channel/UCO2rlcllQhQdPM8PZkqEAcA?view_as=subscriber" style="color:red" target="_blank">My YouTube Channel</a>
     </p>
   </div>
@@ -58,4 +58,3 @@
     </p>
   </div>
 </div>
-<script>alert("HELLO!!!, This site has been moved to a new place on Github, go to the link displayed on the main page (it's yellow so you don't miss it\)")</script>
